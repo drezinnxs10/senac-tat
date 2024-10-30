@@ -1,0 +1,145 @@
+    1  sudo
+    2  sudo -i
+    3  sudo
+    4  clear
+    5  sudo apt update 
+    6  sudo apt upgrade
+    7  sudo apt full-upgrade 
+    8  sudo apt dist-upgrade 
+    9  sudo apt autoremove
+   10  sudo apt autoclean
+   11  history 
+   12  sudo reboot
+   13  sudo update
+   14  sudo apt update
+   15  sudo apt install git vim ko
+   16  sudo apt install git vim kolourpaint 
+   17  sudo apt install microsoft v
+   18  sudo poweroff
+   19  pwd
+   20  ls
+   21  ls -
+   22  ls
+   23  ls -l
+   24  ls -lh
+   25  ls -l
+   26  ls -lha
+   27  cd
+   28  cdc
+   29  cd /
+   30  pwd
+   31  ls -lh
+   32  mkdir
+   33  mkdir --help
+   34  man mkdir
+   35  mkdir SENAC
+   36  ls
+   37  mkdir senac
+   38  ls
+   39  cd SENAC/
+   40  pwd
+   41  cd /
+   42  cd home/senac/SENAC/
+   43  cd ~/SENAC/cd
+   44  pwd
+   45  mkdir -d TAT PEN CAS
+   46  mkdir -v TAT PEN CAS
+   47  ls -lh
+   48  cd TAT/
+   49  pwd
+   50  mkdir -v TEI TST
+   51  ls
+   52  cd TEI/
+   53  pwd
+   54  cd ..
+   55  cd ~/SENAC/TAT/TEI/
+   56  cd ../../PEN/
+   57  mkdir -v TEI TST
+   58  cd TEI
+   59  echo
+   60  echo SENAC Tatuapé
+   61  echo "SENAC Tatuapé"
+   62  echo "SENAC Tatuapé técnico em Informática"
+   63  echo "SENAC Tatuapé técnico em Informática" > teste.txt
+   64  ls
+   65  ls -lh
+   66  echo "André Luiz" > teste01.txt
+   67  ls -lh
+   68  touch
+   69  echo > senac.txt
+   70  ls -lh
+   71  touch sesc.txt
+   72  ls -lh
+   73  touch sesc.txt
+   74  ls ĺh
+   75  ls -lh
+   76  echo Tatuapé > senac.txt
+   77  ls -lh
+   78  echo Penha > senac.txt
+   79  ls -lh
+   80  cd ..
+   81  git clone https://github.com/drezinnxs10/senac-tat
+   82  ls
+   83  cd senac-tat/
+   84  ls
+   85  git config --global user.name "André Luiz"
+   86  git config --global user.email andrezinnyt08@gmail.com
+   87  git config --list
+   88  sudo apt update
+   89  sudo apt upgrade
+   90  senac ls -lh
+   91  ls -lh
+   92  cd SENAC/
+   93  cd TAT/
+   94  cd TEI/
+   95  echo"Tatuapé" > senac.txt 
+   96  echo "tatuapé" > senac.txt 
+   97  echo "Guarulhos" > senai.txt 
+   98  echo "Santana" > sesc txt
+   99  ls -lh
+  100  cat senai.txt 
+  101  cat -n senai.txt 
+  102  echo "Vila Maria" > senai.txt 
+  103  cat senai.txt 
+  104  echo "Itaquera" >> senai.txt 
+  105  cat -n senai.txt 
+  106  echo "Brás" >> senai.txt 
+  107  cat -n senai.txt 
+  108  tac senai.txt 
+  109  cat n- senai.txt 
+  110  cat n- senai.txt | tac
+  111  tail /etc/services 
+  112  head /etc/services 
+  113  cat n- /etc/services 
+  114  head -n3 /etc/services 
+  115  cat n- /etc/services 
+  116  cat n- /etc/services | tail -n3
+  117  cat -n
+  118  cat -n /etc/services 
+  119  cat -n /etc/services | head -n200 | tail -n101 > vava.txt
+  120  ls -lh
+  121  cat -n vava.txt 
+  122  cat -n vava.txt
+  123  ls -lh
+  124  cp vava.txt ramos.txt
+  125  ls -lh
+  126  cp -v ramos.txt senai.txt 
+  127  ls -lh
+  128  ls -lh ../
+  129  ls -lh ../../
+  130  cp vava.txt ../../PEN/
+  131  ls -lh ../../PEN/
+  132  mkdir -v BKP
+  133  cp -v *.txt BKP/
+  134  mv -v vava.txt vaamonde.md
+  135  ls -lh
+  136  mv -v ramos.txt ../TST/leandro.md
+  137  rmls -lh
+  138  ls -lh
+  139  rm -v sesc 
+  140  rm -v txt
+  141  cd ../rm
+  142  cd ../
+  143  rm -Rv TST
+  144  history
+  145  history > comandos.txt
